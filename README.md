@@ -10,7 +10,7 @@ I am a Scientific Computing student at UNMSM 🎓. My background has given me a 
 - 💻 Developing interactive web projects with **HTML, CSS, and Python**.
 - 💡 I love exploring new technologies and building clear, functional interfaces.
 - 🎥 In my free time, I dedicate myself to **video editing** (Sony Vegas, Wondershare Filmora).
-- 📫 Reach out to me at: ismaelox@gmail.com
+- 📫 Reach out to me at: ismaeloxp@gmail.com
 
 <h2 align="left" >My Skills</h2>
 
@@ -53,5 +53,5 @@ I am a Scientific Computing student at UNMSM 🎓. My background has given me a 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ijap/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ismaelox@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ismaeloxp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
